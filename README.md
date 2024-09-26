@@ -28,13 +28,13 @@
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/BhoomiGohil/Scrimba-JavaScriptCoursePracticeTime2.git
+git clone https://github.com/BhoomiGohil/Scrimba-JS-Learning-Path.git
 ```
 
 2. **Navigate to the project directory:**
 
 ```bash
-cd Scrimba-JavaScriptCoursePracticeTime2
+cd Scrimba-JS-Learning-Path
 ```
 
 3. **Open the `index.html` file in your web browser.**
