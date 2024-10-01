@@ -56,7 +56,6 @@ Click on the "Go Live" option to run the project.
 
 1. Open the application in your web browser.
 2. Work through the coding challenges provided.
-3. Use the real-time feedback to refine your code and understand JavaScript concepts better.
 
 ## Technologies Used
 

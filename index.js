@@ -90,7 +90,7 @@ function getHand() {
 // Log the randomly selected hand
 console.log(getHand());
 
-//////////////////////////////////////////////////////////////////////
+// ---------------------------- DOM Code ----------------------------
 
 let fighters = [
   "🐉",
