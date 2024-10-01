@@ -17,6 +17,12 @@
 - Practical projects to apply what you've learned in a real-world context.
 - Clear code examples with explanations to guide your understanding.
 
+## Visual Design
+
+Below is a visual representation of the webpage design:
+
+![Index](Index.png)
+
 ## Getting Started
 
 ### Prerequisites
